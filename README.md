@@ -67,7 +67,7 @@ I also work comfortably with **Docker and Linux** for development and deployment
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAhmed00&langs_count=8&layout=compact&hide_border=true)](https://github.com/AhmedAhmed00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAhmed00&langs_count=8&layout=compact&hide_border=true&hide=html,css)](https://github.com/AhmedAhmed00)
 
 ---
 
