@@ -4,16 +4,15 @@ raw markdown
 
 ### Full-Stack Developer at Cyparta
 
-with 2+ years of experience building scalable web applications using React, Next.js, Django, and Django REST Framework.
+Full-stack developer with 2+ years of experience building scalable web applications using React, Next.js, Django, and Django REST Framework.
 
-I have a strong interest in **system design and software architecture**, with hands-on experience building scalable solutions across domains such as **e-commerce, healthcare, learning management systems (LMS), and financial applications**.
+I’m interested in **system design and software architecture**, with experience building scalable products across **e-commerce, healthcare, LMS, and financial systems**.
 
-On the frontend, I build responsive and high-performance user interfaces, manage state efficiently, and integrate REST APIs. I also work with **SEO optimization techniques and different rendering strategies in Next.js**, including SSR, SSG, and ISR, to improve performance, scalability, and search visibility.
+On the frontend, I build responsive UIs, manage state, and integrate APIs. I also apply **SEO practices and Next.js rendering strategies (SSR, SSG, ISR)** to improve performance and search visibility.
 
-On the backend, I design robust APIs and work with **relational databases**, focusing on schema design, query optimization, and data consistency using Django and DRF.
+On the backend, I design APIs and work with **relational databases**, focusing on schema design, optimization, and data consistency using Django and DRF.
 
-I also use Docker and Linux regularly for development, deployment, and system management.
----
+I’m comfortable working with **Docker and Linux** for development and deployment workflows.
 
 **Frontend**
 
