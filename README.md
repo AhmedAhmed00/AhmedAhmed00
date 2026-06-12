@@ -1,9 +1,8 @@
 ### Hi, I'm Ahmed 👋  
-### Full-Stack Developer at Cyparta
+### Full-stack developer with 2+ years of experience 
 
-Full-stack developer with 2+ years of experience building web applications using modern technologies across frontend and backend stacks.
 
-I focus on **system design and architecture**, building scalable products across domains like e-commerce, healthcare, LMS, and financial systems.
+I focus on building web applications using modern technologies across both frontend and backend stacks. I also keep learning about **system design and architecture**, with experience building scalable products across domains such as e-commerce, healthcare, LMS, and financial systems.
 
 I care about **performance, SEO, and modern rendering strategies (SSR / SSG / ISR)**, and I design APIs and data models with scalability, structure, and maintainability in mind.
 
