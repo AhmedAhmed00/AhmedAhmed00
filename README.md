@@ -3,11 +3,11 @@
 
 Full-stack developer with 2+ years of experience building web applications using **React, Next.js, and Django REST Framework**.
 
-I’m focused on **system design and backend architecture**, building scalable products across domains like e-commerce, healthcare, LMS, and financial systems.
+I focus on **system design and backend architecture**, building scalable products across domains like e-commerce, healthcare, LMS, and financial systems.
 
-I care about **performance, SEO, and rendering strategies (SSR / SSG / ISR)**, and I design APIs and databases with a strong focus on structure, consistency, and scalability.
+I care about **performance, SEO, and modern rendering strategies (SSR / SSG / ISR)**, and I design APIs and data models with scalability, structure, and maintainability in mind.
 
-I’m also comfortable working with **Docker and Linux** in development and deployment workflows.
+I also work comfortably with **Docker and Linux** for development and deployment workflows.
 
 ---
 
@@ -19,18 +19,31 @@ I’m also comfortable working with **Docker and Linux** in development and depl
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![styled--components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat-square&logo=radixui&logoColor=white)
+![next-intl](https://img.shields.io/badge/next--intl-000000?style=flat-square)
 
 **Backend & Infra**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Auth & Services**  
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square)
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Systems & Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
